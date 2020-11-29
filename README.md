@@ -1,2 +1,2 @@
 # pyspark-playground
-Repository for storing all the jupyter notebook and script related to PySpakr
+Playground Repository for storing all the jupyter notebooks and scripts related to PySpark
